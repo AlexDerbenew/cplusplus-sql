@@ -1,0 +1,3 @@
+.objs/
+.idea/
+cmake-build-debug/
